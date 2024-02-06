@@ -1,0 +1,17 @@
+{
+  "name": "webautotesting_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
